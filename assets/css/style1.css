@@ -5,7 +5,7 @@
     - cover background with the "map-bg.jpg" image in the images directory. 
 */
 body {
-    font: "lato";
+    font-family: "lato";
     font-size: 18px;
     background: url(../images/map-bg.jpg);
     background-size: cover;
